@@ -35,8 +35,8 @@ select{
 
 input[type=button]{
 
-    color: black;
+    color: linear-gradient;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #f3d6ed;
+    background-color: black;
     }
 
